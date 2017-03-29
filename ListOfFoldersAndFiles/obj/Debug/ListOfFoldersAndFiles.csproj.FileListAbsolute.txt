@@ -1,0 +1,6 @@
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\bin\Debug\ListOfFoldersAndFiles.exe.config
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\bin\Debug\ListOfFoldersAndFiles.exe
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\bin\Debug\ListOfFoldersAndFiles.pdb
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\obj\Debug\ListOfFoldersAndFiles.csprojResolveAssemblyReference.cache
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\obj\Debug\ListOfFoldersAndFiles.exe
+c:\users\dbialobx\documents\visual studio 2017\Projects\ListOfFoldersAndFiles\ListOfFoldersAndFiles\obj\Debug\ListOfFoldersAndFiles.pdb
